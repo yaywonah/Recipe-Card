@@ -52,6 +52,14 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 figuring out how to do line break via hr tag or something else. how to style the hr tag in css and if it's possible. (it is) figuring out how to make the ordered list number points the color brown. figuring out the table. how to color the table results in brown. i have to learn how to make things smaller? on desktop??? 
 
+switched to using p tags and hr for the breaks. ran into the problem of aligning the lefthand values. i could put a different class for each span and put a different margin value but I felt like there had to be an easier way.
+
+might have to use css grid?
+
+table i ran into the problem of border-bottom because it showed up underneat the fat 22g column while it wasn't there in the design. added a class to the last td tr and added border: none;
+
+for desktop: trying to make the recipe card smaller so it doesn't touch the top and bottom
+
 To see how you can add code snippets, see below:
 
 ```html
