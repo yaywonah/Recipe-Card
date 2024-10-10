@@ -29,7 +29,7 @@ main {
 }
 
 section {
-    margin: 0.64rem;
+    margin: 1.56rem;
 }
 
 h1 {
@@ -166,7 +166,7 @@ th {
     }
 
     .recipe-card {
-        width: 500px; /* turn to vh? */
+        width: 500px;
         padding: 25px 10px;
         border-radius: 15px;
     }
@@ -178,5 +178,10 @@ th {
     .banner img {
         border-radius: 10px;
         width: 90%;
+    }
+
+    .preparation {
+        padding: 15px 10px;
+        margin: 5px 25px;
     }
 }
