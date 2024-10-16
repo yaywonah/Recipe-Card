@@ -158,7 +158,7 @@ th {
     }
 
     body {
-        background-color: hsl(330, 100%, 98%);
+        background-color: #f3e5d8;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -166,7 +166,7 @@ th {
     }
 
     .recipe-card {
-        width: 500px;
+        width: 750px;
         padding: 25px 10px;
         border-radius: 15px;
     }
